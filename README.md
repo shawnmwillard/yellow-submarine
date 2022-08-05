@@ -1,2 +1,4 @@
 # yellow-submarine
-My solution to the coding challenge for Advent of Code 2021: Day 2
+My solution to the coding challenges FizzBuzz and Advent of Code 2021: Day 2
+
+
